@@ -39,8 +39,6 @@ npm start
 
 Showing here how to deploy to Elestio.
 
-# Steps to create CI/CD pipeline on elestio
-
 ### Step 1: Select CI/CD from left sidebar in app.
 
 Click [here](https://dash.elest.io/deploy?source=cicd) to directly go to the CI/CD
