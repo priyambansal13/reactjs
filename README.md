@@ -1,10 +1,10 @@
 # React.js using create-react-app on Elestio
 
+This is a minimal example of a React static site created with create-react-app.
+
 Click on the buton bellow to deploy this repository with CI/CD on Elestio:
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/reactjs"><img src="src\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
-
-This is a minimal example of a React static site created with create-react-app.
 
 <img src="src\reactScreenshot.png" alt="screenshot of the ReactJs app" width="100%" />
 
