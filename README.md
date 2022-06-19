@@ -37,5 +37,5 @@ npm start
 ### Step 5: Make some changes and push
 Try to make some change in your src/App.js then push to the git repository
 
-After few secondes to few minutes your change will be deployed on your CI/CD target.
+After few secondes to few minutes your change will be deployed on your CI/CD target 🚀
 
