@@ -2,7 +2,7 @@
 
 This is a minimal example of a React static site created with create-react-app.
 
-Click on the buton bellow to deploy this repository with CI/CD on Elestio:
+Click on the button bellow to deploy this repository with CI/CD on Elestio:
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/reactjs"><img src="src\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
@@ -34,6 +34,8 @@ npm install
 npm start
 ```
 
-### Step 5: Make some changes and push.
-Try to make some change in your src/App.js
+### Step 5: Make some changes and push
+Try to make some change in your src/App.js then push to the git repository
+
+After few secondes to few minutes your change will be deployed on your CI/CD target.
 
