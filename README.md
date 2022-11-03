@@ -9,7 +9,8 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 <img src="src\screenshot.png" alt="screenshot of the ReactJs app" width="100%" />
 
 
-Refer our tutorial [doc](https://docs.elest.io/books/cicd-pipelines/page/how-to-deploy-react-app-on-elestio) and [video](https://www.youtube.com/watch?v=BhFAWWwF6Q8&feature=youtu.be) to deploy react app on elestio cloud.
+To learn how to deploy a React app on the Elestio cloud, please refer to our tutorial [document](https://docs.elest.io/books/cicd-pipelines/page/how-to-deploy-react-app-on-elestio) and [video](https://www.youtube.com/watch?v=BhFAWWwF6Q8&feature=youtu.be).
+
 
 # Steps to clone this repository and run locally.
 
